@@ -1,0 +1,22 @@
+name: PM Lean Dummy Demo
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  dummy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+          cache: "npm"
+      - run: npm ci
+      - run: ENABLE_DUMMY_PIPELINE=true npm run dummy -- --out out
+      - run: npm run derive -- --out out
+      - run: npm run verify
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pm-lean-dummy-output
+          path: out

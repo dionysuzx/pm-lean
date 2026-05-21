@@ -1,0 +1,71 @@
+name: PM Lean Asset Generation
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "Source to process"
+        required: true
+        default: "pm"
+        type: choice
+        options: ["pm", "dummy"]
+      series:
+        description: "Optional call series slug"
+        required: false
+        type: string
+      limit:
+        description: "Optional call limit"
+        required: false
+        default: "25"
+        type: string
+      enable_dummy_pipeline:
+        description: "Must be true for dummy source"
+        required: false
+        default: false
+        type: boolean
+      dispatch_forkcast_data:
+        description: "Dispatch forkcast-data ingest after success"
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    - cron: "17 */6 * * *"
+
+jobs:
+  build-artifacts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: write
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+          cache: "npm"
+      - run: npm ci
+      - name: Generate real PM artifacts
+        if: ${{ github.event.inputs.source != 'dummy' }}
+        run: npm run backfill -- --pm-root "$PM_ROOT" --out out --series "${{ github.event.inputs.series }}" --limit "${{ github.event.inputs.limit || '25' }}"
+        env:
+          PM_ROOT: ${{ vars.PM_ROOT || '../pm' }}
+      - name: Generate deterministic dummy artifacts
+        if: ${{ github.event.inputs.source == 'dummy' && github.event.inputs.enable_dummy_pipeline == 'true' }}
+        run: |
+          ENABLE_DUMMY_PIPELINE=true npm run dummy -- --out out
+          npm run derive -- --out out
+      - name: Refuse accidental dummy mode
+        if: ${{ github.event.inputs.source == 'dummy' && github.event.inputs.enable_dummy_pipeline != 'true' }}
+        run: |
+          echo "Dummy source requires enable_dummy_pipeline=true"
+          exit 1
+      - run: npm run verify
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pm-lean-output
+          path: out
+      - name: Dispatch forkcast-data
+        if: ${{ github.event.inputs.dispatch_forkcast_data == 'true' }}
+        run: npm run dispatch -- --out out --repo dionysuzx/forkcast-data --workflow ingest.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.FORKCAST_DATA_DISPATCH_TOKEN }}
