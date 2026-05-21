@@ -3,6 +3,7 @@ import { ingestPm } from "./adapters/pm.js";
 import { writeCatalog } from "./domain/record.js";
 import { createDispatchBundle } from "./workflow/dispatch.js";
 import { generateDummyRecords } from "./workflow/dummy.js";
+import { generateLiveFixtureRecords } from "./workflow/liveFixture.js";
 import { deriveRecords } from "./workflow/derive.js";
 
 type Args = Record<string, string | boolean>;
@@ -44,9 +45,10 @@ const help = (): void => {
   ingest    --pm-root /path/to/pm --out out [--series acde] [--limit 5]
   derive    --out out
   backfill  --pm-root /path/to/pm --out out [--series acde] [--limit 25]
+  live-fixture --out out --cycle 1  (requires ENABLE_PM_LEAN_FIXTURE_FEED=true)
   dummy     --out out  (requires ENABLE_DUMMY_PIPELINE=true)
   manifest  --out out
-  dispatch  --out out [--repo dionysuzx/forkcast-data --workflow data-pipeline.yml]
+  dispatch  --out out [--repo dionysuzx/forkcast-data --workflow data-pipeline.yml --feed-ref pm-lean-feed]
 `);
 };
 
@@ -87,6 +89,13 @@ const main = async (): Promise<void> => {
       console.log(`Generated ${records.length} deterministic dummy records into ${outDir}`);
       break;
     }
+    case "live-fixture": {
+      const records = await generateLiveFixtureRecords(outDir, {
+        cycle: optionalNumberArg(args, "cycle") ?? Number.parseInt(process.env.PM_LEAN_FIXTURE_CYCLE ?? "1", 10)
+      });
+      console.log(`Generated ${records.length} fixture-live records into ${outDir}`);
+      break;
+    }
     case "manifest": {
       const catalog = await writeCatalog(outDir);
       console.log(`Generated catalog with ${catalog.entries.length} records at ${outDir}/catalog.json`);
@@ -97,6 +106,9 @@ const main = async (): Promise<void> => {
         outDir,
         repo: optionalStringArg(args, "repo") ?? process.env.FORKCAST_DATA_GITHUB_REPO,
         workflow: optionalStringArg(args, "workflow") ?? "data-pipeline.yml",
+        feedRepo: optionalStringArg(args, "feed-repo") ?? process.env.PM_LEAN_FEED_REPO,
+        feedRef: optionalStringArg(args, "feed-ref") ?? process.env.PM_LEAN_FEED_REF,
+        feedPath: optionalStringArg(args, "feed-path") ?? process.env.PM_LEAN_FEED_PATH,
         dryRun: args["dry-run"] === true
       });
       console.log(`Prepared forkcast-data dispatch bundle at ${path}`);

@@ -7,6 +7,9 @@ export interface DispatchOptions {
   outDir: string;
   repo?: string | undefined;
   workflow?: string | undefined;
+  feedRepo?: string | undefined;
+  feedRef?: string | undefined;
+  feedPath?: string | undefined;
   dryRun?: boolean | undefined;
 }
 
@@ -19,6 +22,11 @@ export const createDispatchBundle = async (options: DispatchOptions): Promise<st
     createdAt: nowIso(),
     source: "pm-lean",
     catalogPath: "catalog.json",
+    feed: {
+      repo: options.feedRepo ?? "dionysuzx/pm-lean",
+      ref: options.feedRef ?? "pm-lean-feed",
+      path: options.feedPath ?? "catalog.json"
+    },
     records: catalog.entries.map((entry) => entry.id),
     dummy: catalog.entries.some((entry) => entry.dummy)
   });
@@ -37,7 +45,7 @@ export const createDispatchBundle = async (options: DispatchOptions): Promise<st
         "-f",
         "force_rebuild=true",
         "-f",
-        `pm_lean_bundle=${path}`
+        `pm_lean_bundle=github:${options.feedRepo ?? "dionysuzx/pm-lean"}@${options.feedRef ?? "pm-lean-feed"}:${options.feedPath ?? "catalog.json"}`
       ],
       { encoding: "utf8" }
     );

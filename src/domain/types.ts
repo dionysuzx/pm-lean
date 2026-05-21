@@ -51,7 +51,7 @@ export interface Artifact {
 }
 
 export interface SourceRef {
-  type: "pm" | "github" | "zoom" | "youtube" | "discourse" | "dummy";
+  type: "pm" | "github" | "zoom" | "youtube" | "discourse" | "fixture-live" | "dummy";
   ref: string;
   url?: string;
   metadata?: Record<string, unknown>;
