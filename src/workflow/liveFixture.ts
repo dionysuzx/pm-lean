@@ -128,7 +128,7 @@ Research: ${fixture.impact}
     eip: fixture.eip,
     summary: fixture.impact,
     decisions: [{ timestamp: "00:00:14", decision: fixture.decision }],
-    replacementNote: "Replace source=fixture-live with source=pm once upstream PM credentials and artifacts are configured."
+    replacementNote: "Replace source=fixture-live with real meeting-capture artifacts emitted into pm-lean-feed or direct forkcast-data records."
   };
 
   const transcript = await writeArtifact({
@@ -178,7 +178,7 @@ Research: ${fixture.impact}
         metadata: {
           cycle,
           fixtureLive: true,
-          replaceWith: "source=pm once upstream ethereum/pm artifacts are configured"
+          replaceWith: "real meeting-capture artifacts emitted into pm-lean-feed or direct forkcast-data records"
         }
       }
     ],

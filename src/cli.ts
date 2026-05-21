@@ -42,9 +42,9 @@ const optionalNumberArg = (args: Args, key: string): number | undefined => {
 const help = (): void => {
   console.log(`pm-lean commands
 
-  ingest    --pm-root /path/to/pm --out out [--series acde] [--limit 5]
+  ingest    --pm-root /path/to/pm --out out [--series acde] [--limit 5]  (local legacy bridge)
   derive    --out out
-  backfill  --pm-root /path/to/pm --out out [--series acde] [--limit 25]
+  backfill  --pm-root /path/to/pm --out out [--series acde] [--limit 25]  (local legacy bridge)
   live-fixture --out out --cycle 1  (requires ENABLE_PM_LEAN_FIXTURE_FEED=true)
   dummy     --out out  (requires ENABLE_DUMMY_PIPELINE=true)
   manifest  --out out

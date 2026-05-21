@@ -14,7 +14,7 @@ out/
     derived/
 ```
 
-`fixture-live` data is deterministic, production-shaped, and clearly marked in provenance. It exists to keep the whole platform alive until upstream `ethereum/pm` generation is swapped in. Old dummy smoke data remains separate and guarded by `ENABLE_DUMMY_PIPELINE=true`.
+`fixture-live` data is deterministic, production-shaped, and clearly marked in provenance. It exists to keep the whole platform alive until real meeting capture hands artifacts to this feed or directly to `forkcast-data`. Old dummy smoke data remains separate and guarded by `ENABLE_DUMMY_PIPELINE=true`.
 
 ## Commands
 
@@ -45,9 +45,9 @@ Every record manifest includes:
 
 ## Production Mode
 
-Real ingestion reads PM artifacts from `/Users/lucy/fun/pm/.github/ACDbot/artifacts/manifest.json` locally, and from a checked-out `ethereum/pm` repository in GitHub Actions.
+The scheduled GitHub Action runs every 30 minutes. Its default and only non-dummy scheduled source is `fixture-live`, which appends one changing, production-shaped PM record to the repo-backed `pm-lean-feed` branch and dispatches `forkcast-data`.
 
-The scheduled GitHub Action runs every 30 minutes. Its default source is `fixture-live`, which appends one changing, production-shaped PM record to the repo-backed `pm-lean-feed` branch and dispatches `forkcast-data`. To switch to real upstream PM artifacts, set repository variable `PM_LEAN_SCHEDULE_SOURCE=pm`; the same feed branch contract is preserved.
+`pm-lean` does not commit generated artifacts to `ethereum/pm` or to this repository's `main` branch. The feed branch is the handoff contract. Future real PM assets should either be emitted into the same feed shape or written directly into `forkcast-data` records. The local `ingest` and `backfill` commands remain as a compatibility bridge for existing `.github/ACDbot/artifacts` checkouts while legacy data is being migrated.
 
 Fake data never runs by default. Any workflow or local command that creates fake artifacts must set:
 
