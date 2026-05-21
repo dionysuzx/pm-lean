@@ -26,7 +26,19 @@ export const createDispatchBundle = async (options: DispatchOptions): Promise<st
   if (!options.dryRun && options.repo && options.workflow) {
     const result = spawnSync(
       "gh",
-      ["workflow", "run", options.workflow, "-R", options.repo, "-f", `pm_lean_bundle=${path}`],
+      [
+        "workflow",
+        "run",
+        options.workflow,
+        "-R",
+        options.repo,
+        "-f",
+        "source=pm-lean",
+        "-f",
+        "force_rebuild=true",
+        "-f",
+        `pm_lean_bundle=${path}`
+      ],
       { encoding: "utf8" }
     );
     if (result.status !== 0) {

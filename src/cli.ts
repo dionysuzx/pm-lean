@@ -46,7 +46,7 @@ const help = (): void => {
   backfill  --pm-root /path/to/pm --out out [--series acde] [--limit 25]
   dummy     --out out  (requires ENABLE_DUMMY_PIPELINE=true)
   manifest  --out out
-  dispatch  --out out [--repo dionysuzx/forkcast-data --workflow ingest.yml]
+  dispatch  --out out [--repo dionysuzx/forkcast-data --workflow data-pipeline.yml]
 `);
 };
 
@@ -96,7 +96,7 @@ const main = async (): Promise<void> => {
       const path = await createDispatchBundle({
         outDir,
         repo: optionalStringArg(args, "repo") ?? process.env.FORKCAST_DATA_GITHUB_REPO,
-        workflow: optionalStringArg(args, "workflow") ?? "ingest.yml",
+        workflow: optionalStringArg(args, "workflow") ?? "data-pipeline.yml",
         dryRun: args["dry-run"] === true
       });
       console.log(`Prepared forkcast-data dispatch bundle at ${path}`);

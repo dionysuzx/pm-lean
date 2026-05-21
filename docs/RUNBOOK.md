@@ -6,7 +6,7 @@
 npm install
 npm run backfill -- --pm-root /Users/lucy/fun/pm --out out
 npm run verify
-npm run dispatch -- --out out --repo dionysuzx/forkcast-data --workflow ingest.yml
+npm run dispatch -- --out out --repo dionysuzx/forkcast-data --workflow data-pipeline.yml
 ```
 
 Use `--series acde --limit 5` to run a small slice.

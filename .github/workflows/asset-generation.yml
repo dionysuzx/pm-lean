@@ -66,6 +66,6 @@ jobs:
           path: out
       - name: Dispatch forkcast-data
         if: ${{ github.event.inputs.dispatch_forkcast_data == 'true' }}
-        run: npm run dispatch -- --out out --repo dionysuzx/forkcast-data --workflow ingest.yml
+        run: npm run dispatch -- --out out --repo dionysuzx/forkcast-data --workflow data-pipeline.yml
         env:
           GITHUB_TOKEN: ${{ secrets.FORKCAST_DATA_DISPATCH_TOKEN }}
