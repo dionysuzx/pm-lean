@@ -49,6 +49,8 @@ jobs:
       - run: npm ci
       - name: Restore accumulated fixture-live feed
         if: ${{ env.REQUESTED_SOURCE == 'fixture-live' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           mkdir -p out
           if git ls-remote --exit-code --heads origin pm-lean-feed >/dev/null 2>&1; then
@@ -84,6 +86,8 @@ jobs:
       - run: npm run verify
       - name: Publish pm-lean feed branch
         if: ${{ env.REQUESTED_SOURCE != 'dummy' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           publish_dir="$(mktemp -d)"
           git init "$publish_dir"
