@@ -29,7 +29,7 @@ on:
         default: true
         type: boolean
   schedule:
-    - cron: "7,37 * * * *"
+    - cron: "7 0,12 * * *"
 
 jobs:
   build-artifacts:

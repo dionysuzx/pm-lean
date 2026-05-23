@@ -45,7 +45,7 @@ Every record manifest includes:
 
 ## Production Mode
 
-The scheduled GitHub Action runs every 30 minutes. Its default and only non-dummy scheduled source is `fixture-live`, which appends one changing, production-shaped PM record to the repo-backed `pm-lean-feed` branch and dispatches `forkcast-data`.
+The scheduled GitHub Action runs every 12 hours. Its default and only non-dummy scheduled source is `fixture-live`, which appends one changing, production-shaped PM record to the repo-backed `pm-lean-feed` branch and dispatches `forkcast-data`.
 
 `pm-lean` does not commit generated artifacts to `ethereum/pm` or to this repository's `main` branch. The feed branch is the handoff contract. Future real PM assets should either be emitted into the same feed shape or written directly into `forkcast-data` records. The local `ingest` and `backfill` commands remain as a compatibility bridge for existing `.github/ACDbot/artifacts` checkouts while legacy data is being migrated.
 

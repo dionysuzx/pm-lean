@@ -43,7 +43,7 @@ The generated data is visibly marked with `dummy: true` and `source.type: "dummy
 - `enable_dummy_pipeline`: explicit dummy guard
 - `dispatch_forkcast_data`: whether to send a downstream GitHub workflow dispatch
 
-Scheduled runs default to `fixture-live` every 30 minutes. To move from fixture-live to real data, keep the same feed contract and replace the generator behind the workflow with a real meeting-capture producer; do not reintroduce automated commits to upstream PM.
+Scheduled runs default to `fixture-live` every 12 hours. To move from fixture-live to real data, keep the same feed contract and replace the generator behind the workflow with a real meeting-capture producer; do not reintroduce automated commits to upstream PM.
 
 ## Failure Policy
 
