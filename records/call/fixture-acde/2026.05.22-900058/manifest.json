@@ -1,0 +1,118 @@
+{
+  "id": "fixture-acde/2026.05.22-900058",
+  "kind": "call",
+  "title": "PM Lean Fixture Live Cycle 58: Glamsterdam BAL status",
+  "seriesSlug": "fixture-acde",
+  "date": "2026-05-22",
+  "number": 900058,
+  "updatedAt": "2026-06-01T14:21:14.426Z",
+  "dummy": false,
+  "sources": [
+    {
+      "type": "fixture-live",
+      "ref": "pm-lean-fixture-live-cycle-58",
+      "url": "https://github.com/dionysuzx/pm-lean/tree/pm-lean-feed",
+      "metadata": {
+        "cycle": 58,
+        "fixtureLive": true,
+        "replaceWith": "real meeting-capture artifacts emitted into pm-lean-feed or direct forkcast-data records"
+      }
+    }
+  ],
+  "artifacts": [
+    {
+      "layer": "derived",
+      "role": "summary",
+      "path": "derived/pm-lean-summary.json",
+      "sha256": "63c33a38afc4daf3c06190d43af7e84a3219ecc9b2f45eef588e3d535c4f8a63",
+      "bytes": 1043,
+      "updatedAt": "2026-06-01T14:21:14.426Z",
+      "producedBy": "pm-lean/derive-summary@0.1.0",
+      "from": [
+        "derived/pm-lean-summary.json",
+        "derived/tldr.json",
+        "normalized/agenda.md",
+        "raw/transcript.vtt"
+      ],
+      "provenance": {
+        "source": "pm-lean",
+        "sourceHash": "63c33a38afc4daf3c06190d43af7e84a3219ecc9b2f45eef588e3d535c4f8a63",
+        "generatedAt": "2026-06-01T14:21:14.426Z",
+        "generator": "pm-lean/derive-summary",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic-extractive",
+        "inputHashes": [
+          "062c6f35094af60fee2860f5399b95fa85445b60a91cfdd263acf240e7df0edf",
+          "43767b89fbf65078c21ccb6e886c0a61fe09991b8da9fa8d804c7017a51c1814",
+          "4dc07eb0bb426a1c80740ef94e145b64203a7e5e21fed75d3ce24df0cdfa1f3d",
+          "7f71851724ed0a1ce5d33505f795ccb3ae545c472438d401490265b851581cc0"
+        ]
+      }
+    },
+    {
+      "layer": "derived",
+      "role": "tldr",
+      "path": "derived/tldr.json",
+      "sha256": "7f71851724ed0a1ce5d33505f795ccb3ae545c472438d401490265b851581cc0",
+      "bytes": 551,
+      "updatedAt": "2026-05-22T05:32:45.925Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "7f71851724ed0a1ce5d33505f795ccb3ae545c472438d401490265b851581cc0",
+        "generatedAt": "2026-05-22T05:32:45.925Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "8f8fa6ecb891c817877eceeb58d487c99de3717d915ed1176b7d1b430e3c51c0"
+      },
+      "from": [
+        "raw/transcript.vtt",
+        "normalized/agenda.md"
+      ]
+    },
+    {
+      "layer": "normalized",
+      "role": "agenda",
+      "path": "normalized/agenda.md",
+      "sha256": "062c6f35094af60fee2860f5399b95fa85445b60a91cfdd263acf240e7df0edf",
+      "bytes": 153,
+      "updatedAt": "2026-05-22T05:32:45.925Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "062c6f35094af60fee2860f5399b95fa85445b60a91cfdd263acf240e7df0edf",
+        "generatedAt": "2026-05-22T05:32:45.925Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "8f8fa6ecb891c817877eceeb58d487c99de3717d915ed1176b7d1b430e3c51c0"
+      },
+      "from": [
+        "raw/transcript.vtt"
+      ]
+    },
+    {
+      "layer": "raw",
+      "role": "transcript",
+      "path": "raw/transcript.vtt",
+      "sha256": "43767b89fbf65078c21ccb6e886c0a61fe09991b8da9fa8d804c7017a51c1814",
+      "bytes": 489,
+      "updatedAt": "2026-05-22T05:32:45.925Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "43767b89fbf65078c21ccb6e886c0a61fe09991b8da9fa8d804c7017a51c1814",
+        "generatedAt": "2026-05-22T05:32:45.925Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "8f8fa6ecb891c817877eceeb58d487c99de3717d915ed1176b7d1b430e3c51c0"
+      }
+    }
+  ]
+}
