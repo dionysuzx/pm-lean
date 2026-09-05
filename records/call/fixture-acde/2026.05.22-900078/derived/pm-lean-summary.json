@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "recordId": "fixture-acde/2026.05.22-900078",
+  "title": "PM Lean Fixture Live Cycle 78: SFI movement watch",
+  "summary": "{ \"schemaVersion\": 1, \"source\": \"fixture-live\", \"fixtureLive\": true, \"cycle\": 78, \"topic\": \"SFI movement watch\", \"eip\": \"EIP-8253\", \"summary\": \"Fork planners should compare replacement scope against existing Glamsterdam ...",
+  "decisions": [
+    "Imported PM TLDR carries decision/action extraction where available."
+  ],
+  "provenance": {
+    "generatedAt": "2026-09-05T15:07:30.787Z",
+    "generator": "pm-lean/derive-summary",
+    "generatorVersion": "0.1.0",
+    "inputArtifactHashes": [
+      "44d1125ac9e18f5547122dd2a474f74a8118f516b74fc20f1d1c6d56b375e017",
+      "5f9d1148f51063a1f560229dcc38b7c9285d534dd9c272b5bc8f0eec63ff14f2",
+      "951d418f6aeed232327da422811d6b88807bf7a0c1260820277b1ddb631c712f",
+      "ba2ded428cfc34a03cb8d8d9bd63a32b5bb8906c06559c59b3d987da785f7620"
+    ],
+    "provider": "fixture",
+    "model": "deterministic-extractive"
+  }
+}

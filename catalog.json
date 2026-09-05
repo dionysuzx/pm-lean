@@ -1,0 +1,2887 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T15:07:30.787Z",
+  "generator": "pm-lean",
+  "entries": [
+    {
+      "id": "fixture-acde/2026.05.21-900002",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 2: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900002/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900003",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 3: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900003/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900004",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 4: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900004/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900005",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 5: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900005/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900006",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 6: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900006/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900007",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 7: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900007/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900008",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 8: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900008/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900009",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 9: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900009/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900010",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 10: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900010/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900011",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 11: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900011/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900012",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 12: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900012/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900013",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 13: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900013/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900014",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 14: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900014/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900015",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 15: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900015/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900016",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 16: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900016/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900017",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 17: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900017/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900018",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 18: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900018/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900019",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 19: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900019/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900020",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 20: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900020/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900021",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 21: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900021/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900022",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 22: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900022/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900023",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 23: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900023/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900024",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 24: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900024/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900025",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 25: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900025/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900026",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 26: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900026/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900027",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 27: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900027/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900028",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 28: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900028/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900029",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 29: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900029/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900030",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 30: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900030/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900031",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 31: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900031/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900032",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 32: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900032/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900033",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 33: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900033/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900034",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 34: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900034/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900035",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 35: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900035/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900036",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 36: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900036/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900037",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 37: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900037/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900038",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 38: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900038/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900039",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 39: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900039/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900040",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 40: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900040/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900041",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 41: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900041/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900042",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 42: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900042/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900043",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 43: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900043/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900044",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 44: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900044/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900045",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 45: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900045/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900046",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 46: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900046/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.21-900047",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 47: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.21-900047/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900048",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 48: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900048/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900049",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 49: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900049/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900050",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 50: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900050/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900051",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 51: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900051/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900052",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 52: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900052/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900053",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 53: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900053/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900054",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 54: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900054/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900055",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 55: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900055/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900056",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 56: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900056/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900057",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 57: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900057/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900058",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 58: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900058/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900059",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 59: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900059/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900060",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 60: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900060/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900061",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 61: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900061/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900062",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 62: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900062/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900063",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 63: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900063/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900064",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 64: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900064/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900065",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 65: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900065/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900066",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 66: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900066/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900067",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 67: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900067/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900068",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 68: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900068/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900069",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 69: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900069/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900070",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 70: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900070/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900071",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 71: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900071/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900072",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 72: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900072/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900073",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 73: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900073/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900074",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 74: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900074/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900075",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 75: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900075/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900076",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 76: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900076/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900077",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 77: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900077/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900078",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 78: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900078/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900079",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 79: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900079/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900080",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 80: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900080/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900081",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 81: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900081/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900082",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 82: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900082/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900083",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 83: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900083/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900084",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 84: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900084/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900085",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 85: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900085/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900086",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 86: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900086/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900087",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 87: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900087/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900088",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 88: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900088/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900089",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 89: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900089/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900090",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 90: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900090/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900091",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 91: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900091/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900092",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 92: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900092/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900093",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 93: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900093/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900094",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 94: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900094/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.22-900095",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 95: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.22-900095/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900096",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 96: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900096/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900097",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 97: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900097/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900098",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 98: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900098/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900099",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 99: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900099/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900100",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 100: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900100/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900101",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 101: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900101/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900102",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 102: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900102/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900103",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 103: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900103/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900104",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 104: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900104/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900105",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 105: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900105/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900106",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 106: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900106/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900107",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 107: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900107/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900108",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 108: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900108/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900109",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 109: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900109/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900110",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 110: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900110/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900111",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 111: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900111/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900112",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 112: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900112/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900113",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 113: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900113/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900114",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 114: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900114/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900115",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 115: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900115/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900116",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 116: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900116/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900117",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 117: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900117/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900118",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 118: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900118/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900119",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 119: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900119/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900120",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 120: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900120/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900121",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 121: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900121/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900122",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 122: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900122/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900123",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 123: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900123/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900124",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 124: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900124/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900125",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 125: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900125/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900126",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 126: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900126/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900127",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 127: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900127/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900128",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 128: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900128/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900129",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 129: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900129/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900130",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 130: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900130/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900131",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 131: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900131/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900132",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 132: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900132/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900133",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 133: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900133/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900134",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 134: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900134/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900135",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 135: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900135/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900136",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 136: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900136/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900137",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 137: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900137/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900138",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 138: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900138/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900139",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 139: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900139/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900140",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 140: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900140/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900141",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 141: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900141/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900142",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 142: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900142/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.23-900143",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 143: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.23-900143/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900144",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 144: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900144/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900145",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 145: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900145/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900146",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 146: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900146/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900147",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 147: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900147/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900148",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 148: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900148/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900149",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 149: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900149/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900150",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 150: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900150/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900152",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 152: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900152/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900153",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 153: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900153/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900154",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 154: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900154/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900155",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 155: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900155/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900156",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 156: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900156/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900157",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 157: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900157/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900158",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 158: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900158/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900159",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 159: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900159/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900160",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 160: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900160/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900161",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 161: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900161/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900162",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 162: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900162/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900163",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 163: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900163/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900164",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 164: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900164/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900165",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 165: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900165/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900166",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 166: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900166/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900167",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 167: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900167/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900168",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 168: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900168/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900169",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 169: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900169/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900170",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 170: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900170/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900171",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 171: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900171/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900172",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 172: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900172/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900173",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 173: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900173/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900174",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 174: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900174/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900175",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 175: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900175/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900176",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 176: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900176/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900177",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 177: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900177/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900178",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 178: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900178/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900179",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 179: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900179/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900180",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 180: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900180/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900181",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 181: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900181/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900182",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 182: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900182/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900183",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 183: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900183/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900184",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 184: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900184/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900185",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 185: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900185/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900186",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 186: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900186/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900187",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 187: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900187/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900188",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 188: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900188/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900189",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 189: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900189/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900190",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 190: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900190/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.24-900191",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 191: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.24-900191/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900192",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 192: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900192/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900193",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 193: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900193/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900194",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 194: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900194/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900195",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 195: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900195/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900196",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 196: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900196/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900197",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 197: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900197/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900198",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 198: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900198/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900199",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 199: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900199/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900200",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 200: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900200/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900201",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 201: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900201/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900202",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 202: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900202/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900203",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 203: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900203/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900204",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 204: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900204/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900205",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 205: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900205/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900206",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 206: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900206/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900207",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 207: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900207/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900208",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 208: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900208/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900209",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 209: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900209/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900210",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 210: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900210/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900211",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 211: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900211/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900212",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 212: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900212/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900213",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 213: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900213/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900214",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 214: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900214/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900215",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 215: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900215/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900216",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 216: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900216/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900217",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 217: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900217/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900218",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 218: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900218/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900219",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 219: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900219/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900220",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 220: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900220/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900221",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 221: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900221/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900222",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 222: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900222/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900223",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 223: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900223/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900224",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 224: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900224/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900225",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 225: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900225/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900226",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 226: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900226/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900227",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 227: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900227/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900228",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 228: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900228/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900229",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 229: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900229/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900230",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 230: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900230/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900231",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 231: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900231/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900232",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 232: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900232/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900233",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 233: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900233/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900234",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 234: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900234/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900235",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 235: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900235/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900236",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 236: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900236/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900237",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 237: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900237/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900238",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 238: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900238/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.25-900239",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 239: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.25-900239/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900240",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 240: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900240/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900241",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 241: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900241/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900242",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 242: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900242/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900243",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 243: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900243/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900244",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 244: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900244/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900245",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 245: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900245/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900246",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 246: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900246/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900247",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 247: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900247/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900248",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 248: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900248/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900249",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 249: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900249/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900250",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 250: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900250/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900251",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 251: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900251/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900252",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 252: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900252/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900253",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 253: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900253/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900254",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 254: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900254/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900255",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 255: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900255/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900256",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 256: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900256/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900257",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 257: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900257/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900258",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 258: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900258/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900259",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 259: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900259/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900260",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 260: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900260/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900261",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 261: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900261/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900262",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 262: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900262/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900263",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 263: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900263/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900264",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 264: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900264/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900265",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 265: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900265/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900266",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 266: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900266/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900267",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 267: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900267/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900268",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 268: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900268/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900269",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 269: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900269/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900270",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 270: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900270/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900271",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 271: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900271/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900272",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 272: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900272/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900273",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 273: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900273/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900274",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 274: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900274/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900275",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 275: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900275/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900276",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 276: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900276/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900277",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 277: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900277/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900278",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 278: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900278/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900279",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 279: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900279/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900280",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 280: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900280/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900281",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 281: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900281/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900282",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 282: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900282/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900283",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 283: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900283/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900284",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 284: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900284/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900285",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 285: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900285/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900286",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 286: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900286/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.26-900287",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 287: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.26-900287/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900288",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 288: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900288/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900289",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 289: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900289/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900290",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 290: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900290/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900291",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 291: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900291/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900292",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 292: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900292/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900293",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 293: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900293/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900294",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 294: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900294/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900295",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 295: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900295/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900296",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 296: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900296/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900297",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 297: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900297/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900298",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 298: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900298/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900299",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 299: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900299/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900300",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 300: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900300/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900301",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 301: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900301/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900302",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 302: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900302/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900303",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 303: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900303/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900304",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 304: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900304/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900305",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 305: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900305/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900306",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 306: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900306/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900307",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 307: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900307/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900308",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 308: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900308/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900309",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 309: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900309/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900310",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 310: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900310/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900311",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 311: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900311/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900312",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 312: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900312/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900313",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 313: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900313/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900314",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 314: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900314/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900315",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 315: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900315/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900316",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 316: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900316/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900317",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 317: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900317/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900318",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 318: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900318/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900319",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 319: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900319/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900320",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 320: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900320/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900321",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 321: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900321/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900322",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 322: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900322/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900323",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 323: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900323/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900324",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 324: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900324/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900325",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 325: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900325/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900326",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 326: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900326/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900327",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 327: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900327/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900328",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 328: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900328/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900329",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 329: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900329/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900330",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 330: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900330/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900331",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 331: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900331/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900332",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 332: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900332/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900333",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 333: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900333/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900334",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 334: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900334/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.27-900335",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 335: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.27-900335/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900336",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 336: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900336/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900337",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 337: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900337/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900338",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 338: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900338/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900339",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 339: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900339/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900340",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 340: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900340/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900341",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 341: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900341/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900342",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 342: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900342/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900343",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 343: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900343/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900344",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 344: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900344/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900345",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 345: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900345/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900346",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 346: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900346/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900347",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 347: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900347/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900348",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 348: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900348/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900349",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 349: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900349/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900350",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 350: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900350/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900351",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 351: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900351/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900352",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 352: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900352/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900353",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 353: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900353/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900354",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 354: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900354/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900355",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 355: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900355/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900356",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 356: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900356/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900357",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 357: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900357/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900358",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 358: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900358/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900359",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 359: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900359/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900360",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 360: SFI movement watch",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900360/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900361",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 361: Glamsterdam BAL status",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900361/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    },
+    {
+      "id": "fixture-acde/2026.05.28-900362",
+      "kind": "call",
+      "title": "PM Lean Fixture Live Cycle 362: EIP-7702 wallet impact",
+      "manifestPath": "records/call/fixture-acde/2026.05.28-900362/manifest.json",
+      "updatedAt": "2026-09-05T15:07:30.787Z",
+      "dummy": false
+    }
+  ]
+}
