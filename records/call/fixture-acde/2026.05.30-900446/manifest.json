@@ -1,0 +1,116 @@
+{
+  "id": "fixture-acde/2026.05.30-900446",
+  "kind": "call",
+  "title": "PM Lean Fixture Live Cycle 446: EIP-7702 wallet impact",
+  "seriesSlug": "fixture-acde",
+  "date": "2026-05-30",
+  "number": 900446,
+  "updatedAt": "2026-10-17T15:27:30.984Z",
+  "dummy": false,
+  "sources": [
+    {
+      "type": "fixture-live",
+      "ref": "pm-lean-fixture-live-cycle-446",
+      "url": "https://github.com/dionysuzx/pm-lean/tree/pm-lean-feed",
+      "metadata": {
+        "cycle": 446,
+        "fixtureLive": true,
+        "replaceWith": "real meeting-capture artifacts emitted into pm-lean-feed or direct forkcast-data records"
+      }
+    }
+  ],
+  "artifacts": [
+    {
+      "layer": "derived",
+      "role": "summary",
+      "path": "derived/pm-lean-summary.json",
+      "sha256": "7bd4f739a58a660a344f281a96aebee5d3c36d105332732cc22972919d1a28eb",
+      "bytes": 970,
+      "updatedAt": "2026-10-17T15:27:30.984Z",
+      "producedBy": "pm-lean/derive-summary@0.1.0",
+      "from": [
+        "derived/tldr.json",
+        "normalized/agenda.md",
+        "raw/transcript.vtt"
+      ],
+      "provenance": {
+        "source": "pm-lean",
+        "sourceHash": "7bd4f739a58a660a344f281a96aebee5d3c36d105332732cc22972919d1a28eb",
+        "generatedAt": "2026-10-17T15:27:30.984Z",
+        "generator": "pm-lean/derive-summary",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic-extractive",
+        "inputHashes": [
+          "45fb06e7e699f17994bec54d96cb8bb4bc47b3d9da607376fb5b06129f67aa7e",
+          "611d5af941877806856809fe43bc501fa4fdc755930940b9e9be1b55e4e1a85f",
+          "eea9e8d95a8f4afc26440b6cf3d617842b6e298bb165b76bebd40d9f307ba324"
+        ]
+      }
+    },
+    {
+      "layer": "derived",
+      "role": "tldr",
+      "path": "derived/tldr.json",
+      "sha256": "eea9e8d95a8f4afc26440b6cf3d617842b6e298bb165b76bebd40d9f307ba324",
+      "bytes": 547,
+      "updatedAt": "2026-10-17T15:27:30.436Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "eea9e8d95a8f4afc26440b6cf3d617842b6e298bb165b76bebd40d9f307ba324",
+        "generatedAt": "2026-10-17T15:27:30.436Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "d4b4702dfc4d4b775f7a625bbc90253b587142de6b0cf2f263d2ff19f11bc168"
+      },
+      "from": [
+        "raw/transcript.vtt",
+        "normalized/agenda.md"
+      ]
+    },
+    {
+      "layer": "normalized",
+      "role": "agenda",
+      "path": "normalized/agenda.md",
+      "sha256": "45fb06e7e699f17994bec54d96cb8bb4bc47b3d9da607376fb5b06129f67aa7e",
+      "bytes": 147,
+      "updatedAt": "2026-10-17T15:27:30.436Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "45fb06e7e699f17994bec54d96cb8bb4bc47b3d9da607376fb5b06129f67aa7e",
+        "generatedAt": "2026-10-17T15:27:30.436Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "d4b4702dfc4d4b775f7a625bbc90253b587142de6b0cf2f263d2ff19f11bc168"
+      },
+      "from": [
+        "raw/transcript.vtt"
+      ]
+    },
+    {
+      "layer": "raw",
+      "role": "transcript",
+      "path": "raw/transcript.vtt",
+      "sha256": "611d5af941877806856809fe43bc501fa4fdc755930940b9e9be1b55e4e1a85f",
+      "bytes": 485,
+      "updatedAt": "2026-10-17T15:27:30.436Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "611d5af941877806856809fe43bc501fa4fdc755930940b9e9be1b55e4e1a85f",
+        "generatedAt": "2026-10-17T15:27:30.436Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "d4b4702dfc4d4b775f7a625bbc90253b587142de6b0cf2f263d2ff19f11bc168"
+      }
+    }
+  ]
+}
