@@ -1,0 +1,116 @@
+{
+  "id": "fixture-acde/2026.05.31-900501",
+  "kind": "call",
+  "title": "PM Lean Fixture Live Cycle 501: SFI movement watch",
+  "seriesSlug": "fixture-acde",
+  "date": "2026-05-31",
+  "number": 900501,
+  "updatedAt": "2026-11-14T06:09:30.348Z",
+  "dummy": false,
+  "sources": [
+    {
+      "type": "fixture-live",
+      "ref": "pm-lean-fixture-live-cycle-501",
+      "url": "https://github.com/dionysuzx/pm-lean/tree/pm-lean-feed",
+      "metadata": {
+        "cycle": 501,
+        "fixtureLive": true,
+        "replaceWith": "real meeting-capture artifacts emitted into pm-lean-feed or direct forkcast-data records"
+      }
+    }
+  ],
+  "artifacts": [
+    {
+      "layer": "derived",
+      "role": "summary",
+      "path": "derived/pm-lean-summary.json",
+      "sha256": "b35b6750be3250226b6c6e14429d82f71759336590dc79dc6fc3119d91bd2be3",
+      "bytes": 966,
+      "updatedAt": "2026-11-14T06:09:30.348Z",
+      "producedBy": "pm-lean/derive-summary@0.1.0",
+      "from": [
+        "derived/tldr.json",
+        "normalized/agenda.md",
+        "raw/transcript.vtt"
+      ],
+      "provenance": {
+        "source": "pm-lean",
+        "sourceHash": "b35b6750be3250226b6c6e14429d82f71759336590dc79dc6fc3119d91bd2be3",
+        "generatedAt": "2026-11-14T06:09:30.348Z",
+        "generator": "pm-lean/derive-summary",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic-extractive",
+        "inputHashes": [
+          "56060140336c423e6850dcdf50330e226feb66912cfeab5d9bc2828a961591a9",
+          "72b900717b129903d0d911d4681e10eef88adbaeb90ff7ef6b2529f04bbae53e",
+          "f98779c1ac79e994772d7706e6ea6799c897bf9ce1a76cca1bc983ba244abba1"
+        ]
+      }
+    },
+    {
+      "layer": "derived",
+      "role": "tldr",
+      "path": "derived/tldr.json",
+      "sha256": "56060140336c423e6850dcdf50330e226feb66912cfeab5d9bc2828a961591a9",
+      "bytes": 549,
+      "updatedAt": "2026-11-14T06:09:29.657Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "56060140336c423e6850dcdf50330e226feb66912cfeab5d9bc2828a961591a9",
+        "generatedAt": "2026-11-14T06:09:29.657Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "ed5a40b9043d7edaf8b867f1895029e16913ba6657fbefb1a2f9254dee6e4496"
+      },
+      "from": [
+        "raw/transcript.vtt",
+        "normalized/agenda.md"
+      ]
+    },
+    {
+      "layer": "normalized",
+      "role": "agenda",
+      "path": "normalized/agenda.md",
+      "sha256": "72b900717b129903d0d911d4681e10eef88adbaeb90ff7ef6b2529f04bbae53e",
+      "bytes": 156,
+      "updatedAt": "2026-11-14T06:09:29.657Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "72b900717b129903d0d911d4681e10eef88adbaeb90ff7ef6b2529f04bbae53e",
+        "generatedAt": "2026-11-14T06:09:29.657Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "ed5a40b9043d7edaf8b867f1895029e16913ba6657fbefb1a2f9254dee6e4496"
+      },
+      "from": [
+        "raw/transcript.vtt"
+      ]
+    },
+    {
+      "layer": "raw",
+      "role": "transcript",
+      "path": "raw/transcript.vtt",
+      "sha256": "f98779c1ac79e994772d7706e6ea6799c897bf9ce1a76cca1bc983ba244abba1",
+      "bytes": 487,
+      "updatedAt": "2026-11-14T06:09:29.657Z",
+      "producedBy": "pm-lean/fixture-live@0.1.0",
+      "provenance": {
+        "source": "fixture-live",
+        "sourceHash": "f98779c1ac79e994772d7706e6ea6799c897bf9ce1a76cca1bc983ba244abba1",
+        "generatedAt": "2026-11-14T06:09:29.657Z",
+        "generator": "pm-lean/fixture-live",
+        "generatorVersion": "0.1.0",
+        "provider": "fixture",
+        "model": "deterministic",
+        "promptHash": "ed5a40b9043d7edaf8b867f1895029e16913ba6657fbefb1a2f9254dee6e4496"
+      }
+    }
+  ]
+}
