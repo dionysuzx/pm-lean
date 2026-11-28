@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "recordId": "fixture-acde/2026.06.01-900530",
+  "title": "PM Lean Fixture Live Cycle 530: EIP-7702 wallet impact",
+  "summary": "{ \"schemaVersion\": 1, \"source\": \"fixture-live\", \"fixtureLive\": true, \"cycle\": 530, \"topic\": \"EIP-7702 wallet impact\", \"eip\": \"EIP-7702\", \"summary\": \"Wallet and account-abstraction teams should review delegation safety te...",
+  "decisions": [
+    "Imported PM TLDR carries decision/action extraction where available."
+  ],
+  "provenance": {
+    "generatedAt": "2026-11-28T19:55:23.241Z",
+    "generator": "pm-lean/derive-summary",
+    "generatorVersion": "0.1.0",
+    "inputArtifactHashes": [
+      "08dacab2740f71f32d2e782df9e5d807413cc489d6d140eff461c856c581c04c",
+      "7c83fa5c5a6ffaf95d8f33bdba52b32ff7fc1ecd3d4e6d1cd815bb95c15c19b1",
+      "d44964674aa60ff9ec048cd53de82593deada43d012cb0e9ec26603ad51a6f0d"
+    ],
+    "provider": "fixture",
+    "model": "deterministic-extractive"
+  }
+}
